@@ -21,6 +21,9 @@ $ flask db upgrade
 
 ### Tecnologias
 - [x] Marchmallow
+- [x] Flask
+- [x] MySQL
+- [x] Alembic Migration(venv)
 
 
 #### Links uteis
